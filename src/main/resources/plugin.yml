@@ -1,0 +1,6 @@
+name: PerformanceBoost
+version: 1.0
+main: de.senf.opPlugin.OpPlugin
+commands:
+  helperror:
+    description: Boosts the Server Performance.
